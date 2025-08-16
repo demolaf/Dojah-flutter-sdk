@@ -13,7 +13,7 @@ A new Flutter project.
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Your Company' => 'email@example.com' }
   s.source           = { :path => '.' }
-  s.source_files = 'Classes/**/*.{h,m,mm,swift}'
+  s.source_files = 'dojah_kyc_sdk_flutter/Sources/dojah_kyc_sdk_flutter/**/*.{h,m,mm,swift}'
   s.dependency 'Flutter'
   s.platform = :ios, '14.0'
   s.swift_version = '5.0'
